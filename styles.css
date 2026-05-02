@@ -5,7 +5,10 @@
     --text: #f4f4f4;
     --muted: #9ea6bd;
     --primary: #4f9eff;
+    --primary-color: #4f9eff;
     --accent: #ff5f84;
+    --glass-border: rgba(255, 255, 255, 0.12);
+    --text-secondary: rgba(255, 255, 255, 0.74);
 }
 
 * {
